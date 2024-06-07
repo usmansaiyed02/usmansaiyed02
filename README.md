@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Usman Saiyed</h1>
 <h3 align="center">A passionate Software Developer and Cybersecurity Enthusiast from Michigan</h3>
 
+- 🌱 I’m currently learning **IT Security Threats & Audits along with Network Pro for CompTIA Network+**
+
+- 🤝 I’m looking for help with **DevOps**
+
 - 📫 How to reach me **saiyedusman@gmail.com**
+
+- ⚡ Fun fact **I play volleyball and basketball.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
